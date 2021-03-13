@@ -1,0 +1,7 @@
+ZvezdaniCasovi 104.0 0.75 kulturna
+RadioDrama 97.6 1.00 kulturna
+MuzickaApoteka 107.0 1.50 muzicka
+KlasikuMolim 95.3 1.75 muzicka
+Antidepresiv 91.8 2.50 zabavna
+VeseloVece 94.9 2.50 kulturna
+Uzbudilnik 103.2 4.00 zabavna

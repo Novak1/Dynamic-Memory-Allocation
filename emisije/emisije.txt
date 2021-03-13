@@ -1,0 +1,7 @@
+Uzbudilnik 103.2 240 zabavna
+Antidepresiv 91.8 150 zabavna
+KlasikuMolim 95.3 105 muzicka
+MuzickaApoteka 107.0 90 muzicka
+RadioDrama 97.6 60 kulturna
+ZvezdaniCasovi 104.0 45 kulturna
+VeseloVece 94.9 150 kulturna
